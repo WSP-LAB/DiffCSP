@@ -138,7 +138,7 @@ decision id node 239 : (CSP-value:strict-dynamic (= 1.0) > 0.5)
 decision id node 247 : ([Expending current HTML] (= 0.0) <= 0.5)
 decision id node 248 : ([Eval of child frame] (= 1.0) > 0.5)
 leaf node 250 reached, no decision here
-``
+```
 
 
 # Citing DiffCSP
