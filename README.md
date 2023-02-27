@@ -12,7 +12,7 @@ execute DiffCSP, see the followings.
 ```
 $ pip install playwright
 $ pip install pandas
-$ pip install cikit-learn
+$ pip install scikit-learn
 ```
 
 2. Clone HiddenCPG
