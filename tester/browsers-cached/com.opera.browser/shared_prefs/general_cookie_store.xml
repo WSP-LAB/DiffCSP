@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="data">{&quot;uris&quot;:{&quot;http:\/\/www.google.com&quot;:[{&quot;name&quot;:&quot;CONSENT&quot;,&quot;value&quot;:&quot;PENDING+967&quot;,&quot;domain&quot;:&quot;.google.com&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;discard&quot;:false,&quot;secure&quot;:true,&quot;version&quot;:0,&quot;expires&quot;:1716753943461}]}}</string>
+</map>

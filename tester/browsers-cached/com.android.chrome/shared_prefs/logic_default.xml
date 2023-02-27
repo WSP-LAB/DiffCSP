@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="sp_key_should_lock_state" value="true" />
+    <int name="new_picture_theme_count" value="3" />
+</map>

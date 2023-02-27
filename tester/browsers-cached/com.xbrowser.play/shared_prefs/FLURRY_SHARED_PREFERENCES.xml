@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="com.flurry.sdk.frame.counter" value="6" />
+    <int name="com.flurry.sdk.prev_streaming_api_key" value="-1463804322" />
+    <long name="com.flurry.sdk.last_streaming_session_id" value="1653311590283" />
+    <long name="com.flurry.sdk.initial_run_time" value="1653311476731" />
+</map>

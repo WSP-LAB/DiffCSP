@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="endpoint_override_path_current">api</string>
+    <long name="last_launch" value="1653681943541" />
+    <string name="endpoint_override_hostname_new">pns-sdk.opera-api.com</string>
+    <string name="user_id">1bc763b0-3618-46e6-9446-20499b77b034</string>
+    <string name="endpoint_override_path_new">api</string>
+    <string name="endpoint_override_hostname_current">pns-sdk.opera-api.com</string>
+</map>

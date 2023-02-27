@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="categories_features" value="2228745" />
+    <boolean name="enable_local_push" value="false" />
+    <int name="duration_threshold" value="0" />
+    <long name="cities_features" value="2228745" />
+    <string name="hosts_news_feed">https://news-af.feednews.com/us/en/</string>
+    <string name="known_user_id_news-af.feednews.com//us/en/">43dd8cd0aa0ff74ebef84d090026dd220527f7d1</string>
+    <string name="user_host">news-af.feednews.com//us/en/</string>
+    <boolean name="enable_video_theater" value="false" />
+    <long name="hosts_timestamp" value="1653681943931" />
+    <string name="categories_host">news-af.feednews.com//us/en/</string>
+    <string name="hosts_language_region">us:en</string>
+    <string name="cities_host">news-af.feednews.com//us/en/</string>
+    <string name="user_id">43dd8cd0aa0ff74ebef84d090026dd220527f7d1</string>
+    <string name="hosts_article_detail">https://cdn-af.feednews.com/</string>
+    <int name="hosts_origin" value="1" />
+    <boolean name="enable_native_push" value="false" />
+</map>

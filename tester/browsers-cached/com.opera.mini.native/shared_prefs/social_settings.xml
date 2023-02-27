@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="clip_config">{&quot;clip_first_screen&quot;:&quot;for_you&quot;,&quot;share_whitelist&quot;:[&quot;instagram&quot;,&quot;facebook&quot;,&quot;fb&quot;,&quot;youtube&quot;,&quot;youtu.be&quot;,&quot;reddit&quot;],&quot;is_slide_play&quot;:true,&quot;is_slide_cinema&quot;:true,&quot;is_slide_request_cinema&quot;:true,&quot;newsfeed_cinema_exit_redirect_clip&quot;:false,&quot;news_detail_clip_slide_style&quot;:&quot;normal&quot;,&quot;clip_detail_clip_slide_style&quot;:&quot;normal&quot;,&quot;clip_card_display_size&quot;:false,&quot;video_replay_limit&quot;:15,&quot;display_clip_top_user&quot;:false}</string>
+</map>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="urls">
+        <string>https://easylist-downloads.adblockplus.org/exceptionrules.txt</string>
+        <string>https://easylist-downloads.adblockplus.org/easylist.txt</string>
+    </set>
+</map>

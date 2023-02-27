@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="speeddial_pushed_content_migrated" value="true" />
+    <int name="speeddial_usage_header_seqnum" value="0" />
+    <string name="speeddial_push_delete_queue"></string>
+</map>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="com.applovin.sdk.applovin_random_token">514bde1c-d1a9-44e8-bb89-42053acbefdd</string>
+    <string name="com.applovin.sdk.network_response_code_mapping">{&quot;https:\/\/a4.applovin.com\/4.0\/ad&quot;:{&quot;200&quot;:6},&quot;https:\/\/d.applovin.com\/2.0\/s&quot;:{&quot;200&quot;:1},&quot;https:\/\/d.applovin.com\/2.0\/device&quot;:{&quot;200&quot;:1},&quot;https:\/\/rt.applovin.com\/4.0\/pix&quot;:{&quot;200&quot;:1}}</string>
+    <string name="com.applovin.sdk.compass_random_token">db922e5d-b945-415d-82f5-b10dc00693d7</string>
+    <boolean name="com.applovin.sdk.compliance.has_user_consent" value="true" />
+</map>

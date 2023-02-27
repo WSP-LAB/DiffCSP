@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="Chrome.SyncPromo.ShowCount.Settings" value="2" />
+    <boolean name="Chrome.Flags.CachedFlag.ElidePrioritizationOfPreNativeBootstrapTasks" value="true" />
+    <int name="Chrome.Flags.FieldTrialParamCached.ConditionalTabStripAndroid:conditional_tab_strip_infobar_limit" value="6" />
+    <boolean name="first_run_tos_accepted" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.CCTResizableForThirdParties" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.CloseTabSuggestions" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.GiveJavaUiThreadDefaultTaskTraitsUserBlockingPriority" value="false" />
+    <int name="Chrome.CrashReporting.LastSessionApplicationState" value="1" />
+    <boolean name="binary_toggle" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.OptimizationGuidePushNotifications" value="false" />
+    <int name="Chrome.Flags.CrashStreakBeforeCache" value="0" />
+    <boolean name="LocaleManager_WAS_IN_SPECIAL_LOCALE" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.PaintPreviewShowOnStartup" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:tab_count_button_on_start_surface" value="false" />
+    <boolean name="grid_tab_switcher_enabled" value="true" />
+    <int name="Chrome.SyncPromo.TotalShowCount" value="2" />
+    <boolean name="skip_welcome_page" value="true" />
+    <boolean name="org.chromium.chrome.browser.tabmodel.TabPersistentStore.HAS_RUN_MULTI_INSTANCE_FILE_MIGRATION" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.FeedLoadingPlaceholder:enable-animation-on-instant-start" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.CCTIncognitoAvailableToThirdParty" value="false" />
+    <int name="browser_crash_success_upload" value="0" />
+    <boolean name="start_surface_enabled" value="false" />
+    <long name="ntp.signin_promo_suppression_period_start" value="1652950572769" />
+    <boolean name="tab_group_android_enabled" value="true" />
+    <int name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:num_days_keep_show_start_at_startup" value="7" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:omnibox_focused_on_new_tab" value="false" />
+    <boolean name="service_manager_for_background_prefetch" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.ConditionalTabStripAndroid" value="false" />
+    <boolean name="first_backup_done" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:allow_to_refetch" value="true" />
+    <int name="Chrome.DefaultBrowserPromo.SessionCount" value="2" />
+    <int name="Chrome.StartSurface.RegularTabCount" value="10" />
+    <int name="browser_crash_failure_upload" value="0" />
+    <int name="other_crash_failure_upload" value="0" />
+    <boolean name="variations_seed_native_stored" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.InterestFeedV2" value="true" />
+    <string name="locale">en-US</string>
+    <boolean name="Chrome.Flags.FieldTrialParamCached.PaintPreviewShowOnStartup:has_accessibility_support" value="true" />
+    <int name="Chrome.Flags.FieldTrialParamCached.TabSwitcherOnReturn:tab_switcher_on_return_time_ms" value="-1" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.GridTabSwitcherForTablets:enable_launch_polish" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.AppMenuMobileSiteOption" value="false" />
+    <boolean name="content_suggestions_shown" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.CCTResizable90MaximumHeight" value="false" />
+    <int name="Chrome.Flags.FieldTrialParamCached.ConditionalTabStripAndroid:conditional_tab_strip_session_time_ms" value="3600000" />
+    <int name="other_crash_success_upload" value="0" />
+    <string name="Chrome.Flags.FieldTrialParamCached.PageAnnotationsService:page_annotations_base_url">https://memex-pa.googleapis.com/v1/annotations</string>
+    <int name="gpu_crash_success_upload" value="0" />
+    <int name="LocaleManager_USR_TYPE" value="3" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:finale_animation_enabled" value="false" />
+    <string name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:tab_grid_layout_android_new_tab_tile"></string>
+    <boolean name="Chrome.Flags.FieldTrialParamCached.UseChimeAndroidSdk:always_register" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.PaintPreviewDemo" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.AppToWebAttribution" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:is_doodle_supported" value="false" />
+    <int name="com.android.chrome.SEARCH_ENGINE_PROMO_SHOWN" value="0" />
+    <boolean name="com.google.android.apps.chrome.icing.IcingController.LEGACY_CORPUS_DATA_CLEARED_PREFS_NAME" value="true" />
+    <long name="MainIntent.LaunchTimestamp" value="1652950572973" />
+    <string name="com.google.android.apps.chrome.rlz.CHROME_CLIENT_ID">ms-unknown</string>
+    <boolean name="Chrome.Flags.CachedFlag.InstantStart" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:exclude_mv_tiles" value="false" />
+    <long name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:thumbnail_aspect_ratio" value="4605831338911806259" />
+    <boolean name="Chrome.Flags.CachedFlag.ExperimentsForAgsa" value="true" />
+    <boolean name="service_manager_for_download_resumption" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.InstanceSwitcher" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.TabToGTSAnimation" value="true" />
+    <boolean name="metrics_reporting" value="true" />
+    <int name="Chrome.Flags.FieldTrialParamCached.TabToGTSAnimation:zooming-min-memory-mb" value="2048" />
+    <boolean name="applink.chrome_default_browser" value="false" />
+    <boolean name="org.chromium.chrome.browser.searchwidget.IS_GOOGLE_LENS_AVAILABLE" value="false" />
+    <string name="Chrome.Flags.FieldTrialParamCached.CCTResizableForThirdParties:allowlist_entries"></string>
+    <boolean name="Chrome.Flags.CachedFlag.StoreHoursAndroid" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.NewWindowAppMenu" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.DynamicColorButtonsAndroid" value="false" />
+    <boolean name="swap_pixel_format_to_fix_convert_from_translucent" value="true" />
+    <boolean name="promos_skipped_on_first_start" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:show_last_active_tab_only" value="false" />
+    <int name="MainIntent.LaunchCount" value="2" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:enable_search_term_chip_adaptive_icon" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.ReadLater" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:open_ntp_instead_of_start" value="false" />
+    <int name="Chrome.Flags.FieldTrialParamCached.ConditionalTabStripAndroid:conditional_tab_strip_infobar_period" value="3" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:support_accessibility" value="true" />
+    <string name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:start_surface_variation"></string>
+    <boolean name="Chrome.Flags.CachedFlag.AnonymousUpdateChecks" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:hide_start_when_last_visited_tab_is_srp" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:check_sync_before_show_start_at_startup" value="false" />
+    <boolean name="network_service_warm_up_enabled" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:show_open_in_tab_group_menu_item_first" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.CCTRemoveRemoteViewIds" value="true" />
+    <boolean name="Chrome.Feed.ArticlesListVisible" value="true" />
+    <boolean name="background_thread_pool_enabled" value="false" />
+    <int name="contextual_search_tap_triggered_promo_count" value="0" />
+    <boolean name="download_auto_resumption_in_native" value="true" />
+    <int name="reached_code_sampling_interval" value="0" />
+    <int name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:num_days_user_click_below_threshold" value="7" />
+    <int name="Chrome.StartSurface.IncognitoTabCount" value="0" />
+    <int name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:spare_renderer_delay_ms" value="1000" />
+    <int name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:user_clicks_threshold" value="2147483647" />
+    <int name="android_restore_status" value="5" />
+    <boolean name="Chrome.StartSurface.IsLastVisitedTabSRP" value="false" />
+    <int name="Chrome.Flags.FieldTrialParamCached.OptimizationGuidePushNotifications:max_cache_size" value="100" />
+    <string name="Chrome.Flags.FieldTrialParamCached.CCTResizableForThirdParties:denylist_entries"></string>
+    <boolean name="incognito-shortcut-added" value="true" />
+    <boolean name="variations_initialized" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.ToolbarUseHardwareBitmapDraw" value="false" />
+    <string name="org.chromium.chrome.browser.searchwidget.SEARCH_ENGINE_SHORTNAME">Google</string>
+    <boolean name="Chrome.Flags.CachedFlag.TabStripImprovements" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:enable_tab_group_auto_creation" value="true" />
+    <boolean name="first_run_signin_setup" value="false" />
+    <boolean name="Chrome.AppLaunch.SearchEngineHadLogo" value="true" />
+    <boolean name="notifications_vibrate" value="true" />
+    <long name="Chrome.Flags.LastCachedMinimalBrowserFlagsTimeMillis" value="1652950732399" />
+    <boolean name="snapshot_database_removed" value="true" />
+    <int name="Chrome.CrashReporting.LastSessionBrowserPid" value="28052" />
+    <boolean name="Chrome.Flags.CachedFlag.CCTResizableAllowResizeByUserGesture" value="false" />
+    <string name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:behavioural_targeting"></string>
+    <float name="user_font_scale_factor" value="1.0" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabToGTSAnimation:skip-slow-zooming" value="true" />
+    <boolean name="com.google.android.apps.chrome.icing.IcingController.DATA_CLEARED" value="false" />
+    <string name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:new_home_surface_from_home_button"></string>
+    <boolean name="Chrome.Flags.CachedFlag.ElideTabPreloadAtStartup" value="true" />
+    <int name="Chrome.Flags.FieldTrialParamCached.TabToGTSAnimation:zooming-min-sdk-version" value="23" />
+    <int name="gpu_crash_failure_upload" value="0" />
+    <boolean name="Chrome.Flags.CachedFlag.GridTabSwitcherForTablets" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGroupsContinuationAndroid:enable_tab_group_sharing" value="false" />
+    <long name="com.google.android.apps.chrome.rlz.CHROME_VERSION_CODE" value="495106111" />
+    <int name="com.google.android.apps.chrome.icing.IcingController.VERSION" value="2" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:hide_switch_when_no_incognito_tabs" value="false" />
+    <string name="Chrome.FirstRun.FieldTrialEnabled">Default</string>
+    <boolean name="Chrome.Flags.CachedFlag.CriticalPersistedTabData" value="false" />
+    <long name="com.google.android.apps.chrome.ChromeMobileApplication.BOOT_TIMESTAMP" value="1652853232654" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGroupsContinuationAndroid:enable_launch_polish" value="false" />
+    <int name="signin_promo_impressions_count_settings" value="2" />
+    <boolean name="com.google.android.apps.chrome.icing.HistoryUsageMigrator.HISTORY_MIGRATION_REQUESTED" value="false" />
+    <boolean name="immersive_ui_mode_enabled" value="false" />
+    <boolean name="org.chromium.chrome.browser.searchwidget.IS_VOICE_SEARCH_AVAILABLE" value="true" />
+    <boolean name="in_metrics_sample" value="false" />
+    <long name="ChromeTabbedActivity.BackgroundTimeMs" value="-1" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:warm_up_renderer" value="false" />
+    <string name="Chrome.Flags.FieldTrialParamCached.CCTResizableForThirdParties:default_policy">use-denylist</string>
+    <boolean name="Chrome.Flags.CachedFlag.BookmarkBottomSheet" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.TabGroupsForTablets" value="false" />
+    <int name="renderer_crash_success_upload" value="0" />
+    <int name="org.chromium.chrome.browser.tabmodel.TabPersistentStore.ACTIVE_TAB_ID" value="10" />
+    <int name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:signin_promo_NTP_count_limit" value="2147483647" />
+    <boolean name="bg_startup_tracing" value="false" />
+    <string name="org.chromium.chrome.browser.searchwidget.SEARCH_ENGINE_URL">https://www.google.com/</string>
+    <boolean name="Chrome.Flags.CachedFlag.EarlyLibraryLoad" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:show_tabs_in_mru_order" value="false" />
+    <boolean name="first_run_signin_complete" value="true" />
+    <long name="Chrome.Flags.FieldTrialParamCached.TabStripImprovements:min_tab_width" value="4640889047261118464" />
+    <int name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:signin_promo_NTP_reset_after_hours" value="-1" />
+    <boolean name="Chrome.Flags.CachedFlag.CCTResizableForFirstParties" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.TabGroupsContinuationAndroid" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.DynamicColorAndroid:dynamic_color_full" value="false" />
+    <boolean name="command_line_on_non_rooted_enabled" value="false" />
+    <boolean name="first_run_flow" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:exclude_query_tiles" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.ElasticOverscroll" value="true" />
+    <boolean name="org.chromium.chrome.browser.searchwidget.IS_INCOGNITO_AVAILABLE" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.DynamicColorAndroid" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.UseChimeAndroidSdk" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGroupsContinuationAndroid:enable_launch_bug_fix" value="false" />
+    <int name="org.chromium.chrome.browser.tab.TabIdManager.NEXT_ID" value="11" />
+    <boolean name="Chrome.Flags.CachedFlag.CCTIncognito" value="true" />
+    <int name="renderer_crash_failure_upload" value="0" />
+    <boolean name="org.chromium.chrome.browser.tabmodel.TabPersistentStore.HAS_RUN_FILE_MIGRATION" value="true" />
+    <string name="com.google.android.apps.chrome.rlz.RLZ_STRING"></string>
+    <set name="bts_cached_uma">
+        <string>Android.BackgroundTaskScheduler.TaskScheduled.Success:8:9</string>
+        <string>Android.BackgroundTaskScheduler.TaskCanceled:8:2</string>
+        <string>Android.BackgroundTaskScheduler.TaskScheduled.Success:1:2</string>
+        <string>Android.BackgroundTaskScheduler.TaskCreated.WithoutExpiration:8:9</string>
+        <string>Android.BackgroundTaskScheduler.TaskCreated.WithoutExpiration:1:2</string>
+        <string>Android.BackgroundTaskScheduler.TaskCanceled:25:1</string>
+        <string>Android.BackgroundTaskScheduler.TaskStarted:1:1</string>
+        <string>Android.BackgroundTaskScheduler.TaskCreated.WithoutExpiration:9:5</string>
+        <string>Android.BackgroundTaskScheduler.TaskScheduled.Success:9:5</string>
+        <string>Android.BackgroundTaskScheduler.TaskCanceled:18:1</string>
+    </set>
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:enable_search_term_chip" value="false" />
+    <string name="Chrome.Flags.FieldTrialParamCached.ExperimentsForAgsa:">{}</string>
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:show_ntp_tiles_on_omnibox" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.ThemeRefactorAndroid" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.WebApkTrampolineOnInitialIntent" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:home_button_on_grid_tab_switcher" value="false" />
+    <boolean name="org.chromium.chrome.browser.tabmodel.TabPersistentStore.HAS_COMPUTED_MAX_ID" value="true" />
+    <int name="last_rolled_for_chrome_survey_key" value="139" />
+    <string name="reached_code_profiler_group"></string>
+    <boolean name="Chrome.Flags.CachedFlag.FeedLoadingPlaceholder" value="false" />
+    <int name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:signin_promo_NTP_since_first_time_shown_limit_hours" value="-1" />
+    <int name="Chrome.AppLaunch.LastKnownActiveTabState" value="2" />
+</map>

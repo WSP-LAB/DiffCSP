@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="gcd">{&quot;net&quot;:2137,&quot;retries&quot;:0}</string>
+    <string name="afUninstallToken">fLKJkyAJTeC9UWgD_Wid73:APA91bEy9qf-ZHmnfOY5qLJtNXOKWDg22cZ_tSOYOUzfR242MZnOT8HFtNPOwX7KA4On-N9N5JzGi-MSeMG3fnXScDu3dccd2yrxIjqfXAFseXDoGt859dcaR_eY_wRNRJn-tQLUB54g</string>
+    <long name="prev_session_dur" value="31" />
+    <boolean name="ddl_sent" value="true" />
+    <long name="af_rc_max_age" value="86400" />
+    <string name="sentSuccessfully">true</string>
+    <string name="af_remote_config">eyJ2ZXIiOiJkZWZhdWx0LnYxLjE2MzcxNDk1MjkiLCJkYXRhIjp7fX0=</string>
+    <int name="versionCode" value="1906820403" />
+    <boolean name="sentRegisterRequestToAF" value="true" />
+    <string name="savedProperties">{&quot;disableLogs&quot;:&quot;true&quot;,&quot;uid&quot;:&quot;1653681942780-9007721539675940778&quot;,&quot;collectIMEI&quot;:&quot;false&quot;,&quot;collectOAID&quot;:&quot;false&quot;,&quot;useHttpFallback&quot;:&quot;false&quot;,&quot;collectIMEIForceByUser&quot;:&quot;false&quot;,&quot;collectAndroidIdForceByUser&quot;:&quot;false&quot;,&quot;collectAndroidId&quot;:&quot;false&quot;,&quot;currencyCode&quot;:&quot;USD&quot;,&quot;advertiserId&quot;:&quot;a7f9800c-d7c3-4382-a21e-023207552b32&quot;,&quot;advertiserIdEnabled&quot;:&quot;true&quot;}</string>
+    <string name="AF_INSTALLATION">1653681942780-9007721539675940778</string>
+    <boolean name="afUninstallToken_queued" value="false" />
+    <int name="appsFlyerCount" value="1" />
+    <long name="af_rc_timestamp" value="1653681942618" />
+    <long name="AppsFlyerTimePassedSincePrevLaunch" value="1653681942720" />
+    <string name="first_launch">{&quot;net&quot;:206,&quot;from_fg&quot;:1360,&quot;start_with&quot;:&quot;application&quot;,&quot;init_to_fg&quot;:151}</string>
+    <string name="appsFlyerFirstInstall">2022-05-27_200542+0000</string>
+    <long name="afUninstallToken_received_time" value="1653681942652" />
+    <string name="attributionId">{&quot;install_time&quot;:&quot;2022-05-27 20:05:45.185&quot;,&quot;af_status&quot;:&quot;Organic&quot;,&quot;af_message&quot;:&quot;organic install&quot;,&quot;is_first_launch&quot;:false}</string>
+</map>

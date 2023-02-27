@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="__leanplum_attributes">01[8, -3, -70, -42, 71, 69, -104, -88, -97, 78, -5, -43, 12, 87, 31, 27, 54, -78, -27, 124, 7, -17, -6, -58, 52, -101, 56, 52, -68, -79, -54, -99, 71, -105, -19, -14, 55, 95, -95, -102, 85, -66, -12, -81, 92, 7, 34, 38, -35, 63, 24, 70, 58, 90, -45, -30, -14, -114, 104, 47, 34, 55, -1, 104, 122, -32, 68, -9, 99, -31, -6, 67, -97, 83, 34, -67, 53, -17, 48, -31, 82, 17, 96, 50, -111, 6, -126, 65, 60, 7, 62, -65, -21, 8, 37, -48, -25, 90, -80, 49, 93, 64, 57, 26, 124, -99, 111, 75, 81, 10, -48, 109, 94, 59, 69, -75, 19, 95, 29, -57, 51, -87, -121, 16, 60, 52, -48, -26, 46, -3, -102, -104, 29, 86, -127, -54, -35, 1, -94, -45, 32, 2, -121, 118, -58, -97, 77, -17, -79, -54, 50, -16, -35, -71, -107, -17, 91, 7, 27, -113, -46, 41, 89, -14, 51, 100, 85, -86, 14, -43, -105, -98, 10, 88, -75, -73]</string>
+    <string name="__leanplum_default_notification_channels">com_appboy_default_notification_channel</string>
+    <string name="__leanplum_notification_channels">[{&quot;importance&quot;:3,&quot;name&quot;:&quot;Product and service news&quot;,&quot;id&quot;:&quot;com_appboy_default_notification_channel&quot;}]</string>
+    <string name="__leanplum_uuid">9d15af4c-72ff-479d-9e9a-fab46ec9ffdd</string>
+    <boolean name="installTimeInitialized" value="true" />
+</map>

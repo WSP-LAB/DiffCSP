@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="PicassoEnabled" value="false" />
+    <boolean name="MainThreadTaskReporting" value="false" />
+    <int name="AnrWatchdogTimeoutMs" value="5000" />
+    <boolean name="BgTaskReporting" value="false" />
+    <float name="FirebaseThrottleLevel" value="1.0" />
+    <string name="ThreadPoolConfig">{ &quot;asyncTaskPoolEnabled&quot;: false, &quot;legacyDiskPool&quot;: &quot;diskPool&quot;, &quot;legacyJunkPool&quot;: -1, &quot;legacyJunkPoolIsCpuRelative&quot;: true }</string>
+    <boolean name="OpenUrlLogReporting" value="true" />
+    <int name="FirebaseLoggingLevel" value="2" />
+</map>

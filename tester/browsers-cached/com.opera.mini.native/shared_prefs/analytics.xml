@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ft_ac_OPERA_MENU" value="1" />
+    <int name="data_usage_MAX_PRIVATE_TABS" value="0" />
+    <int name="ft_is_OPERA_MENU" value="1" />
+    <int name="ft_as_OPERA_MENU" value="1" />
+    <int name="data_usage_MAX_TABS" value="1" />
+    <int name="data_usage_FAVORITE_FOLDER_COUNT" value="0" />
+    <long name="asm_tp" value="1653682888007" />
+    <int name="data_usage_MAX_START_PAGE_TABS" value="1" />
+    <int name="ft_ac_DISCOVER_READ_MORE" value="1" />
+    <int name="ft_as_DISCOVER_READ_MORE" value="1" />
+    <int name="data_usage_BOOKMARK_FOLDER_COUNT" value="0" />
+    <int name="data_usage_FAVORITE_COUNT" value="8" />
+    <int name="ft_ic_OPERA_MENU" value="1" />
+    <int name="data_usage_SAVED_PAGE_COUNT" value="0" />
+    <string name="first_start_date">20220527</string>
+    <int name="data_usage_USER_FAVORITE_COUNT" value="0" />
+    <int name="data_usage_PUSHED_FAVORITE_COUNT" value="8" />
+    <int name="asm_sc" value="1" />
+    <int name="data_usage_BOOKMARK_COUNT" value="0" />
+</map>

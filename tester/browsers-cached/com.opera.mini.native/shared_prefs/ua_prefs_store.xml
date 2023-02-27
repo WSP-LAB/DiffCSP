@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="loc_pref">en_US</string>
+    <string name="id_pref">google/sdk_gphone_x86_64_arm64/generic_x86_64_arm64:11/RSR1.210722.013/7800151:userdebug/dev-keys|410410686</string>
+    <string name="ua_pref">Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86_64_arm64 Build/RSR1.210722.013; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36</string>
+</map>

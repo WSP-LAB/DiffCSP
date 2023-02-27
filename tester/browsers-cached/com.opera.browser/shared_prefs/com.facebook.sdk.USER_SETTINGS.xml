@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="com.facebook.sdk.USER_SETTINGS_BITMASK" value="13" />
+</map>

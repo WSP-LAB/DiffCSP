@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="pending.consents" value="0" />
+    <int name="pushed.sequence" value="1" />
+    <int name="processed.consents" value="9" />
+</map>

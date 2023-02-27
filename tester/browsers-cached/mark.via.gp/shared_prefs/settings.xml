@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="agreement2" value="1" />
+    <boolean name="login" value="false" />
+    <string name="datachecker">2,3,4,5</string>
+    <int name="version" value="5" />
+    <int name="changelogcode" value="20220514" />
+    <int name="appui2" value="0" />
+    <int name="cloudtag" value="4263" />
+    <long name="webflag" value="9885" />
+</map>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="session_resumed_ts" value="1653682848156" />
+    <long name="time_in_browsing" value="0" />
+    <long name="news_reading_private_started_ts" value="0" />
+    <int name="flags" value="1" />
+    <long name="session_paused_ts" value="1653682887608" />
+    <long name="time_in_news" value="0" />
+    <long name="news_reading_started_ts" value="0" />
+    <long name="time_in_news_private" value="0" />
+    <long name="time_in_fg" value="39452" />
+    <long name="session_created_ts" value="1653682848156" />
+    <long name="browsing_started_ts" value="0" />
+</map>

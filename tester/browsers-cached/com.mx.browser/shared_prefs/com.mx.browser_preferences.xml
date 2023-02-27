@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="pref_key_header_download_path">/storage/emulated/0/Download</string>
+    <int name="last_version_code" value="11000" />
+    <string name="cldd">0c2fec82816cdf34825a36d5f573a65775f80000</string>
+    <string name="res.quickdialmx6">/data/user/0/com.mx.browser/files/quickdialxml</string>
+    <string name="pref_last_open_websites_0">{&quot;key_active_index&quot;:0,&quot;key_data&quot;:[{&quot;key_url&quot;:&quot;mx:\/\/home&quot;,&quot;key_group_id&quot;:&quot;1653691270875&quot;}]}</string>
+    <string name="month:blk_rqst_cnt">2022-05</string>
+    <boolean name="Anonymous_import_anonymous" value="true" />
+    <string name="res.newnavigationmx6.url">http://mm.maxthon.com/resource/newnavigation/newnavigation1.html</string>
+    <boolean name="first_success_download_config" value="true" />
+    <string name="remote_search_engine_name">Google Max</string>
+    <boolean name="pref_key_open_copied_website" value="true" />
+    <boolean name="has_show_shtrage_permission" value="true" />
+    <set name="adblock_filter_lists">
+        <string>https://easylist-downloads.adblockplus.org/easylist.txt</string>
+    </set>
+    <string name="auto_fill_version">2</string>
+    <long name="pref_last_open_websites_time0" value="1653691270878" />
+    <int name="res.quickdialmx6.en.ver" value="1" />
+    <string name="res.special_ua_websitesmx6.url">http://mm.maxthon.com/resource/useragent/useragent1.xml</string>
+    <int name="pref_apps_plus_versionen" value="183" />
+    <boolean name="easy_list_has_downloaded" value="false" />
+    <string name="res.topsitesmx6.url">http://mm.maxthon.com/resource/topsites/topsites2.json</string>
+    <int name="new_version" value="3216" />
+    <string name="pref_key_header_molebox">1</string>
+    <int name="res.special_ua_websitesmx6.en.ver" value="8" />
+    <string name="pref_key_header_screen_rotation">User</string>
+    <string name="res.topsitesmx6.lang">en</string>
+    <string name="last_update_time">1653644839645</string>
+    <int name="delay" value="-1" />
+    <int name="res.newnavigationmx6.en.ver" value="35" />
+    <string name="res.addonsmx6.url">http://mm.maxthon.com/resource/addons/addons2.xml</string>
+    <string name="livesone_flag">1</string>
+    <string name="remote_search_engine_url">https://www.maxask.com/s/m/?q=%s</string>
+    <string name="res.newnavigationmx6">/data/user/0/com.mx.browser/files/newnavigationhtml</string>
+    <boolean name="pref_key_experience_improved" value="true" />
+    <string name="adblock_allowed_connection_type">any</string>
+    <string name="send_app_list_time">20220528</string>
+    <int name="res.addonsmx6.en.ver" value="93" />
+    <boolean name="autoupdate" value="true" />
+    <string name="send_statistics_online_date">2022052800</string>
+    <string name="res.addonsmx6">/data/user/0/com.mx.browser/files/addonsxml</string>
+    <string name="res.topsitesmx6">/data/user/0/com.mx.browser/files/topsitesjson</string>
+    <string name="res.quickdialmx6.lang">en</string>
+    <string name="res.search_engine_identifiermx6">/data/user/0/com.mx.browser/files/search_engine_identifierxml</string>
+    <string name="res.quickdialmx6.url">http://mm.maxthon.com/resource/quickdial/quickdial170.xml</string>
+    <string name="res.special_ua_websitesmx6">/data/user/0/com.mx.browser/files/special_ua_websitesxml</string>
+    <boolean name="note_import_default_data_anonymous3000" value="true" />
+    <string name="new_version_url">https://down-lives-one.oss-cn-beijing.aliyuncs.com/download/android/mx5.2.1.3222.apk</string>
+    <string name="pref_default_home_top_background">/storage/emulated/0/Android/data/com.mx.browser/cache/Temp/e71ab9c0fdaa2f4872aad6bda9b4736b</string>
+    <boolean name="has_agree_license" value="true" />
+    <int name="res.topsitesmx6.en.ver" value="3" />
+    <string name="res.search_engine_identifiermx6.lang">en</string>
+    <string name="res.newnavigationmx6.lang">en</string>
+    <boolean name="adblock_enabled" value="false" />
+    <string name="res.special_ua_websitesmx6.lang">en</string>
+    <boolean name="adblock_aa_enabled" value="true" />
+    <string name="auto_fill">http://mm.maxthon.cn/mxbrowser/resource/alertwindow/auto_fill.json</string>
+    <int name="res.search_engine_identifiermx6.en.ver" value="6" />
+    <long name="blk_rqst_cnt" value="0" />
+    <boolean name="pref_key_notify_push" value="true" />
+    <string name="res.search_engine_identifiermx6.url">http://mm.maxthon.com/resource/searchengine/searchengine1.xml</string>
+    <int name="quick_dial_newanonymousenmx6ver" value="1" />
+    <boolean name="has_update_from_mx4" value="true" />
+    <string name="pref_default_home_top_background_username">Pawel Czerwinski</string>
+    <boolean name="pref_key_browser_auto_update" value="true" />
+    <boolean name="android.permission.READ_EXTERNAL_STORAGE" value="true" />
+    <string name="res.addonsmx6.lang">en</string>
+</map>

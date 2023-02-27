@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="request_in_session_count" value="0" />
+    <long name="first_ad_req_time_ms" value="1653682850532" />
+    <string name="app_settings_json">{&quot;status&quot;:1,&quot;app_id&quot;:&quot;ca-app-pub-4721105574136909~1441445670&quot;,&quot;auto_collect_location&quot;:false,&quot;initializer_settings&quot;:{&quot;config&quot;:{}}}</string>
+    <long name="app_settings_last_update_ms" value="1653682850470" />
+    <long name="app_last_background_time_ms" value="1653682888141" />
+</map>

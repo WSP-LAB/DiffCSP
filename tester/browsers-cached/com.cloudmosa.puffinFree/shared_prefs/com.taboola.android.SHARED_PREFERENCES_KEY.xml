@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="com.taboola.android.ADVERTISING_ID_SHARED_PREFERENCES_KEY">a7f9800c-d7c3-4382-a21e-023207552b32</string>
+    <string name="com.taboola.android.CONFIGURATION_SHARED_PREFS_KEY">{&#10;    &quot;taboolaConfig&quot;: {&#10;      &quot;configVersion&quot;: &quot;1.0&quot;,&#10;      &quot;placementDefault&quot;: {&#10;        &quot;useOnlineTemplate&quot;: &quot;true&quot;&#10;      }&#10;    }&#10;  }&#10;    </string>
+    <string name="com.taboola.android.ISO_CODE">us</string>
+    <string name="com.taboola.android.CONFIGURATION_PUBLISHER_SHARED_PREFS_KEY">puffin-browser-network</string>
+    <string name="com.taboola.android.CONFIGURATION_UNIQUE_ID">2aa95a32-c9a0-4325-8b7c-9d5675152ca1</string>
+</map>

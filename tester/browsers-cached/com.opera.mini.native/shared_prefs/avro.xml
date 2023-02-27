@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="avro.stats.schedule.count" value="4" />
+    <long name="avro.stats.attempts.count" value="3" />
+    <long name="avro.stats.success.count" value="2" />
+    <long name="avro.osp.accounts" value="1" />
+</map>

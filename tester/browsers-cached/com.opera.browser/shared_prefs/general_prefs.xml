@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="discard_session_cookies_at_startup" value="false" />
+    <boolean name="main.menu.button.clicked" value="true" />
+    <int name="settings.speed_dial_enabled_default.reason" value="10" />
+    <boolean name="oem.onboarding.reported" value="true" />
+    <boolean name="vpn.subscription_locations_outdated" value="false" />
+    <boolean name="readinglist.access_after_upgrade.all_access" value="true" />
+    <boolean name="download.access_after_upgrade.all_access" value="true" />
+    <boolean name="startpage.accent_selector_shown" value="true" />
+    <boolean name="oem.onboarding.completed" value="true" />
+    <boolean name="crypto.wallet.has_wallet" value="false" />
+    <boolean name="startpage.upgrade_page_will_be_shown" value="false" />
+</map>

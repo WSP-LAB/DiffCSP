@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="oplite_last_poke_ts" value="1653682899348" />
+    <string name="dbp_default_browser_package">android</string>
+    <int name="cache_reset_version" value="1" />
+    <boolean name="homepage_reached" value="true" />
+    <long name="dbp_app_first_launch_time" value="1653682848083" />
+    <long name="wm_last_poke_ts" value="1653682818622" />
+    <long name="opnews_last_poke_ts" value="1653682899347" />
+    <int name="last_active_news_source" value="2" />
+    <boolean name="ADBLOCK_HAS_LIST" value="false" />
+</map>

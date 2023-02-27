@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="browser.h5store.updated_at">2020-11-25T01:26:09.000Z</string>
+    <string name="browser.h5store.service_url">http://srven.xbext.com:80/service_data/browser.h5store-1491962462435522161-1606267569.json</string>
+    <string name="browser.qa.service_url">http://srven.xbext.com:80/service_data/browser.qa-783810125862696130-1591407602.json</string>
+    <string name="browser.conf.service_url">http://srven.xbext.com:80/service_data/browser.conf-1174556750268536569-1585709399.json</string>
+    <string name="browser.sug.topsite.service_url">http://srven.xbext.com:80/service_data/browser.sug.topsite-1407807419775004739-1606267495.json</string>
+    <string name="browser.conf.updated_at">2020-04-01T02:49:59.000Z</string>
+    <string name="browser.qa.updated_at">2020-06-06T01:40:02.000Z</string>
+    <string name="browser.sug.topsite.updated_at">2020-11-25T01:24:55.000Z</string>
+</map>

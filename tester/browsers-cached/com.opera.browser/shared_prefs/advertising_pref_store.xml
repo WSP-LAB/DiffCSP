@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="advertising_id">a7f9800c-d7c3-4382-a21e-023207552b32</string>
+    <boolean name="limit_ad_tracking" value="false" />
+</map>

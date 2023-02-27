@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="limitEventUsage" value="true" />
+    <string name="anonymousAppDeviceGUID">XZ6ee4b015-76ba-4b63-8940-54f512c25b58</string>
+</map>

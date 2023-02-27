@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="phase" value="4" />
+    <int name="session.counter" value="1" />
+    <int name="previous_phase" value="4" />
+    <long name="session.pause.time" value="1653682887608" />
+</map>

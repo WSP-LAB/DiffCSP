@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="DPO_SETTINGS_KEY">[LDU-0-0]</string>
+    <string name="AFP;68.3.3557.64528">fa660d88ccd9fc982ef21f4fd4145a0d</string>
+    <string name="deviceIdHash">aac30ca2-0e0a-4cb6-9296-dc46ff1ded1a</string>
+    <int name="AppMinSdkVersion" value="23" />
+</map>

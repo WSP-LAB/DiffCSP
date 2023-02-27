@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="lastFetch" value="1653316565232" />
+    <string name="lastKeyId">com.flurry.configkey.prod.ec.1</string>
+    <long name="refreshFetch" value="60000" />
+    <int name="appVersion" value="20220514" />
+    <string name="com.flurry.sdk.variant_ids">1,15200,46</string>
+    <string name="lastRSA">MGUCMAMU9wtiiBwEN89wKyN7yeHZgQyMCf2WBJBl6KM3tD7InrDMkzxOxQxEDxxRleRvbgIxAOxAPSeeTYwd2nAlqI7ekb9fpniSW9G7EOCsGSTbtzGcT7ODn5VjIMh7rWSUKnuikw==</string>
+    <string name="lastETag">&quot;5c633AGZmX8dBrHhZEogy6vMQFm2s+KVL3aesOl5oAk=--gzip&quot;</string>
+</map>

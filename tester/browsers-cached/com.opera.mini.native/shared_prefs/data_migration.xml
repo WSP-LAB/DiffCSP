@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="old_favorites" value="1" />
+    <int name="saved_pages_database" value="1" />
+    <int name="user_consents" value="1" />
+    <int name="saved_pages_files" value="1" />
+    <int name="webview_passwords" value="1" />
+</map>

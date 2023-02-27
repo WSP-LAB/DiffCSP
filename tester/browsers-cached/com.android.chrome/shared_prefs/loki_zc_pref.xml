@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="n_time_index" value="4" />
+    <long name="n_last_schedule_time" value="1200000" />
+    <string name="n_token">MTY1MjgxMjUwMDQ5NnwxNjUyODEyNDk5Mjc5fDE2NTI4MTI1MDA0OTY=</string>
+    <int name="n_seq" value="4" />
+    <int name="n_key_word_crc32" value="830917677" />
+    <long name="n_last_post_timestamp" value="1652812601385" />
+</map>

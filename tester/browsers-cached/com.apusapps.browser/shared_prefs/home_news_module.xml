@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="news_version_v2" value="true" />
+    <long name="news_centerlang_request_time" value="1652812498586" />
+    <boolean name="is_good_news_country" value="false" />
+    <long name="news_centernews_request_time" value="1652812521476" />
+    <boolean name="china_channel_request" value="false" />
+    <string name="news_center_newsCountry">US</string>
+</map>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="start_count" value="1" />
+    <long name="first_launch_timestamp" value="1653682848378" />
+</map>

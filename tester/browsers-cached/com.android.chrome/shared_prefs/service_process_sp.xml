@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="sp_key_is_clipboard_content_changed" value="true" />
+    <long name="sp_download_adb_rules_time" value="1652812498554" />
+    <boolean name="sp_key_has_new_version" value="false" />
+</map>

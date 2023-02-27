@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="slots">1</string>
+    <string name="advertising_id">a7f9800c-d7c3-4382-a21e-023207552b32</string>
+    <int name="client.version" value="-768843337" />
+    <string name="client.protocols">&quot;http&quot;</string>
+    <boolean name="limit_ad_tracking" value="false" />
+    <string name="client.settings">&quot;install_non_market_apps&quot;:&quot;1&quot;</string>
+    <int name="slots_version" value="622061243" />
+</map>

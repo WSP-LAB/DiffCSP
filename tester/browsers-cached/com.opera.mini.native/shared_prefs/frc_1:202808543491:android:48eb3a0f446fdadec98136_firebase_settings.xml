@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="last_fetch_etag">etag-202808543491-firebase-fetch-700491424</string>
+    <long name="backoff_end_time_in_millis" value="-1" />
+    <int name="last_fetch_status" value="-1" />
+    <long name="last_fetch_time_in_millis" value="1653682824784" />
+    <int name="num_failed_fetches" value="0" />
+</map>

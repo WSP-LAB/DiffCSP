@@ -1,0 +1,13 @@
+{
+    "HOST": "http://127.0.0.1:8000/test/",
+    "REPORT_API": "http://127.0.0.1:8000/script_receive",
+    "RESULT_API": "http://127.0.0.1:8000/csp_finish",
+    "TEST_LIST": "test_list.txt",
+    "TOTAL_CSP_TEST_LIST": "testing_csp_list.txt",
+    "DRIVER_PATH": {
+        "Chrome": "driver/chromedriver",
+        "Firefox": "driver/geckodriver",
+        "Edge": "driver/msedgedriver",
+        "Safari": "D:\\cspuzz\\tester\\driver\\safari.exe"
+    }
+}

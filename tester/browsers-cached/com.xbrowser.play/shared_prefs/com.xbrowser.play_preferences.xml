@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="app_launch_times" value="3" />
+    <boolean name="debug_menu" value="false" />
+    <int name="last_float_btn_y" value="-1" />
+    <string name="loyalty_slop">7</string>
+    <int name="num_tabs" value="2" />
+    <string name="rule_file_info">[{&quot;id&quot;:&quot;_08893e56af95554a62afe5db1657c20f&quot;,&quot;title&quot;:&quot;11.txt&quot;,&quot;size&quot;:&quot;214.4 KB&quot;,&quot;source&quot;:1,&quot;update_at&quot;:&quot;2022-05-23 15:11:17&quot;,&quot;number_rules&quot;:4520,&quot;file_name&quot;:&quot;\/data\/user\/0\/com.xbrowser.play\/files\/xbrowser\/ad_rules\/11-443734731.txt&quot;,&quot;active&quot;:true,&quot;status&quot;:0,&quot;source_url&quot;:&quot;https:\/\/filters.adtidy.org\/extension\/chromium\/filters\/11.txt&quot;},{&quot;id&quot;:&quot;_17ba74de8f13543dbff29e37b3ce125d&quot;,&quot;title&quot;:&quot;easylist.txt&quot;,&quot;size&quot;:&quot;1.13 MB&quot;,&quot;source&quot;:1,&quot;update_at&quot;:&quot;2022-05-23 15:11:17&quot;,&quot;number_rules&quot;:57879,&quot;file_name&quot;:&quot;\/data\/user\/0\/com.xbrowser.play\/files\/xbrowser\/ad_rules\/easylist-1025149380.txt&quot;,&quot;active&quot;:true,&quot;status&quot;:0,&quot;source_url&quot;:&quot;https:\/\/easylist.to\/easylist\/easylist.txt&quot;}]</string>
+    <int name="home_load_times" value="3" />
+    <string name="last_version_name">2.7.5</string>
+    <boolean name="sd_card_state" value="false" />
+    <boolean name="normal_exit" value="false" />
+    <int name="save_traffic_strategy" value="0" />
+    <int name="1653311480719.index" value="0" />
+    <string name="1653311480719.v_0.last_title">Advanced Settings</string>
+    <string name="stat_web_access">true</string>
+    <string name="last-active-tab-url">x:as</string>
+    <string name="1653311480719.v_0.last_url">x:as</string>
+    <string name="pref-tab-list">1653311476721,1653311480719</string>
+    <string name="1653311476721.v_0.c0">com.mmbox.xbrowser.controllers.HomeBrowserController</string>
+    <int name="1653311476721.size" value="1" />
+    <string name="last_version_code">360</string>
+    <boolean name="enable_hardware_accel_skia" value="false" />
+    <int name="current_stack_index" value="1" />
+    <int name="1653311476721.index" value="0" />
+    <string name="oversea_search">https://www.google.com/search?q=%keywords%</string>
+    <int name="last_float_btn_x" value="-1" />
+    <string name="1653311480719.v_0.c0">com.mmbox.xbrowser.controllers.WebViewBrowserController</string>
+    <boolean name="support-multi-win" value="true" />
+    <string name="search_engine_url">https://www.google.com/search?q=%keywords%</string>
+    <string name="assign_search_url">http://www.google.com/search?q=%keywords%</string>
+    <string name="1653311476721.v_0.pkg">com.xbrowser.play</string>
+    <string name="show_update_message_bar">true</string>
+    <int name="strong_block_hits" value="0" />
+    <string name="channel_code">google_play</string>
+    <boolean name="load_images" value="true" />
+    <string name="show_ranking_message_bar">false</string>
+    <boolean name="is_first_startup" value="false" />
+    <string name="update_url">http://srv1.xbext.com:7890/update.html</string>
+    <int name="1653311480719.size" value="1" />
+    <string name="1653311480719.v_0.pkg">com.xbrowser.play</string>
+</map>

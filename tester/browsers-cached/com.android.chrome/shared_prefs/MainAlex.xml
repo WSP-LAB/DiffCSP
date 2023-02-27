@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="s_k_g_i">Android Emulator OpenGL ES Translator (Intel(R) Iris(TM) Plus Graphics 655)</string>
+    <int name="_count_is_t" value="6" />
+    <int name="_count_su_t" value="3" />
+    <long name="l_e_u_t" value="0" />
+    <long name="s_k_l_l_c_t" value="1652812499748" />
+    <int name="com.apusapps.browser:core" value="2" />
+    <set name="com.apusapps.browser_a_l_t_c_s">
+        <string>1652812588311;1652812589756</string>
+        <string>1652812519975;1652812521279</string>
+        <string>1652812496418;1652812498860</string>
+    </set>
+    <long name="l_d_t_f_a_l" value="1652812496370" />
+    <long name="com.apusapps.browser_p_t_c_s" value="1451" />
+    <int name="_count_ps_t" value="5" />
+    <set name="_p_n_s">
+        <string>com.apusapps.browser</string>
+    </set>
+    <int name="u_s_s_c" value="1" />
+    <int name="_count_hb_t" value="2" />
+    <long name="l_s_u_t" value="1652812501728" />
+    <int name="l_v_c" value="253" />
+    <boolean name="i_o_u" value="false" />
+    <int name="_count_sus_t" value="1" />
+    <int name="com.apusapps.browser" value="3" />
+    <long name="_c_date_hb_t" value="1652803200000" />
+    <long name="l_d_t_f_a_u" value="1652812588430" />
+    <int name="_count_eus_t" value="10" />
+    <int name="c_s_a" value="5" />
+    <int name="u_s_f_c" value="0" />
+    <long name="_c_ts_hb_t" value="1652812499719" />
+</map>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="lpAttr.Facebook deeplink supported">no</string>
+    <string name="lpAttr.News">no</string>
+    <string name="lpAttr.Branding">opera</string>
+    <string name="lpAttr.Ofa beta">no</string>
+    <string name="lpAttr.Home country">us</string>
+    <string name="lpAttr.Legacy user">no</string>
+    <string name="lpAttr.Notifications enabled">yes</string>
+    <string name="lpAttr.News backend">newsfeed</string>
+    <string name="lpAttr.UTM source">opera</string>
+    <int name="lpAttr.lp.app.version" value="1906820403" />
+    <string name="lpAttr.Mini">yes</string>
+    <string name="lpAttr.Touch">no</string>
+</map>

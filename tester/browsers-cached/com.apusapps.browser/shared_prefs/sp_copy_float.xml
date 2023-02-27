@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="day_show_copy_float_times" value="0" />
+    <boolean name="day_clicked_copy_float" value="false" />
+    <boolean name="sp_user_click_donot_remind" value="false" />
+    <long name="last_set_copy_float_day" value="1652781601000" />
+</map>

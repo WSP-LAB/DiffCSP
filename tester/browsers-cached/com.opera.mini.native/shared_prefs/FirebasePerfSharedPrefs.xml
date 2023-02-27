@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="com.google.firebase.perf.NetworkRequestSamplingRate" value="0.033457" />
+    <string name="com.google.firebase.perf.SdkDisabledVersions"></string>
+    <boolean name="com.google.firebase.perf.SdkEnabled" value="true" />
+    <float name="com.google.firebase.perf.TraceSamplingRate" value="0.06419" />
+</map>

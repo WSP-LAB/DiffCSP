@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="account_daemon_state" value="true" />
+    <boolean name="pref_account_is_first_call" value="false" />
+</map>

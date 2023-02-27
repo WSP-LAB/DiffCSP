@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="toolbar_disposition_classic" value="2" />
+    <int name="enable_newsfeed_override_default" value="1" />
+    <int name="inside_eea" value="0" />
+    <int name="enable_trending_searches_override_default" value="1" />
+    <int name="ad_blocking_override_default" value="1" />
+    <int name="speed_dial.enabled_override_default" value="1" />
+    <int name="personalized_default" value="1" />
+    <int name="version_code" value="1906820403" />
+    <int name="collect_partner_visits" value="1" />
+    <int name="tracker_blocker" value="0" />
+    <int name="settings_version_key" value="21" />
+    <int name="news_is_blocked_by_personalization_change" value="0" />
+    <int name="collect_website_categories" value="1" />
+    <int name="toolbar_disposition_tablet" value="1" />
+    <int name="block_popups" value="0" />
+    <int name="ad_blocking" value="0" />
+    <int name="process_news_topics" value="1" />
+    <int name="eula_accepted.gdpr" value="1" />
+    <long name="last_upgrade_time" value="1653681943071" />
+    <int name="enable_recent_searches_override_default" value="1" />
+    <int name="enable_suggested_speed_dials_override_default" value="1" />
+</map>

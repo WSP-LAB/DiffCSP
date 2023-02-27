@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="log_data_client_used_this_month_long" value="21698" />
+    <long name="log_data_client_used_date_2022-05-27" value="21698" />
+    <long name="log_data_server_used_this_month_long" value="2567" />
+    <int name="log_month" value="4" />
+    <string name="log_date">2022-05-27</string>
+    <long name="log_data_server_used_date_2022-05-27" value="2567" />
+</map>

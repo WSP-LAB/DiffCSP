@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="keep_live_services">
+        <string>com.superapps.browser.service.CoreService</string>
+    </set>
+    <int name="pref_daemon_crash_count" value="0" />
+    <long name="pref_daemon_pre_call_time" value="1652812592469" />
+</map>

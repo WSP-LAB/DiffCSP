@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="stored_info">
+        <string>IDFA_freqCapNumViews</string>
+        <string>IABTCF_TCString</string>
+        <string>IABTCF_AddtlConsent</string>
+        <string>IABTCF_idfaFlowControl</string>
+    </set>
+    <int name="consent_status" value="3" />
+    <set name="written_values">
+        <string>IABTCF_PurposeOneTreatment</string>
+        <string>IABTCF_VendorConsents</string>
+        <string>IABTCF_PublisherCC</string>
+        <string>IABTCF_PublisherConsent</string>
+        <string>IABTCF_gdprApplies</string>
+        <string>IABTCF_SpecialFeaturesOptIns</string>
+        <string>IABTCF_idfaFlowControl</string>
+        <string>IABTCF_VendorLegitimateInterests</string>
+        <string>IABTCF_PublisherLegitimateInterests</string>
+        <string>IABTCF_UseNonStandardStacks</string>
+        <string>IABTCF_TCString</string>
+        <string>IABTCF_PolicyVersion</string>
+        <string>IABTCF_AddtlConsent</string>
+        <string>IABTCF_UserConsentRecordId</string>
+        <string>IABTCF_PurposeConsents</string>
+        <string>IABTCF_PurposeLegitimateInterests</string>
+        <string>IABTCF_CmpSdkID</string>
+        <string>IABTCF_CmpSdkVersion</string>
+    </set>
+</map>

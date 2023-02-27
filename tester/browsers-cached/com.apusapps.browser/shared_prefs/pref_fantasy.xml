@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="p_k_per_cont">true</string>
+    <string name="p_k_fan_ag">true</string>
+    <string name="p_k_fan_ver">2</string>
+    <string name="p_k_is_eu_final">false</string>
+    <string name="p_k_cur_fan_version">3.0.14</string>
+    <string name="p_k_last_version__code">253</string>
+</map>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="marketURL"></string>
+    <string name="persistedRequestID">invalid</string>
+    <string name="latestVersion"></string>
+    <int name="backoffFailedAttempts" value="0" />
+    <long name="timestampForNextPostAttempt" value="1652954178337" />
+    <long name="timestampOfInstall" value="1652950578152" />
+    <boolean name="sendInstallEvent" value="false" />
+    <string name="installSource">system_image</string>
+    <long name="timestampForNewRequest" value="1652968578337" />
+    <long name="timestampOfRequest" value="-1" />
+    <long name="delay" value="3600000" />
+    <int name="serverDate" value="5617" />
+</map>

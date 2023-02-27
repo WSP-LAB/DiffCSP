@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="B_CCV">DE</string>
+    <string name="activeDays">0</string>
+    <string name="gpsi">1</string>
+    <string name="channelGroupId">7</string>
+    <string name="competitor">1</string>
+    <string name="B_CCS">DE</string>
+    <string name="channel">100000</string>
+</map>

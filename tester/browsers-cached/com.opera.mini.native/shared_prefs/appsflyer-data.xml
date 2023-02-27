@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="AF_INSTALLATION">1653682820810-5776198107298310812</string>
+    <boolean name="afUninstallToken_queued" value="true" />
+    <long name="af_rc_timestamp" value="1653682848543" />
+    <string name="first_launch">{&quot;start_with&quot;:&quot;application&quot;}</string>
+    <string name="afUninstallToken">fWmrjLBUSiO-ir5mHuyAoK:APA91bGn0HFSrRr04kOuJVlzcEIftliLR_L6O31hULANLKevDMQTzaE63nCYKWrJp9kIQUleRp0Erpumbx8PUnlYaQDqDIa55aRWQ3HQ_1b3ZpRcReiPZXwHTd6aePoBXpBf2BPJ-eo3</string>
+    <long name="af_rc_max_age" value="86400" />
+    <long name="afUninstallToken_received_time" value="1653682848647" />
+    <string name="af_remote_config">eyJ2ZXIiOiJkZWZhdWx0LnYxLjE2MzcxNDk1MjkiLCJkYXRhIjp7fX0=</string>
+</map>

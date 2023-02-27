@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="compressed_bytes" value="0" />
+    <int name="ads_blocked" value="0" />
+    <int name="videos_optimized" value="0" />
+    <string name="user_id">922e05910bb9cdb6788bfaed4bb406dde0e7ce86e70672ff62b9547e50499197</string>
+    <string name="private_key">df2868db1eed11736435ef62dee522bcb73ca8ce55613aa894929f5e271a5134</string>
+    <int name="in_mode" value="0" />
+    <long name="uncompressed_bytes" value="0" />
+</map>

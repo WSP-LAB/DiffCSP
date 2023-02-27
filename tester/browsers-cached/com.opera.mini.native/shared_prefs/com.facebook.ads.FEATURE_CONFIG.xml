@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="adnw_sync_after_ad_load">false</string>
+    <string name="adnw_enable_sync">false</string>
+    <string name="adnw_modules_no_pii_sync_enabled">false</string>
+    <string name="adnw_modules_sync_enabled">false</string>
+</map>

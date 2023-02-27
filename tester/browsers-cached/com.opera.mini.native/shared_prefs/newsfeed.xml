@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="enable_local_push" value="false" />
+    <int name="categories_features" value="2114057" />
+    <int name="duration_threshold" value="0" />
+    <long name="FEEDBACK_TRACKER_SEND_CONTROLLER_LAST_SUCCESS_REQUESTS_EVENTS" value="1653682888044" />
+    <boolean name="enable_news_bar" value="true" />
+    <long name="FEEDBACK_TRACKER_SEND_CONTROLLER_LAST_SUCCESS_INFO" value="1653682849005" />
+    <boolean name="enable_comments" value="false" />
+    <string name="hosts_news_feed">https://news-af.feednews.com/us/en/</string>
+    <string name="known_user_id_news-af.feednews.com//us/en/">6ab30b01fa873f44bcfb37cf3e1f252205278822</string>
+    <string name="user_host">news-af.feednews.com//us/en/</string>
+    <boolean name="enable_video_theater" value="false" />
+    <string name="categories_host">news-af.feednews.com//us/en/</string>
+    <long name="FEEDBACK_TRACKER_SEND_CONTROLLER_LAST_SUCCESS_EVENTS" value="1653682888142" />
+    <string name="hosts_language_region">us:en</string>
+    <string name="user_id">6ab30b01fa873f44bcfb37cf3e1f252205278822</string>
+    <string name="hosts_article_detail">https://cdn-af.feednews.com/</string>
+    <int name="hosts_origin" value="1" />
+    <boolean name="enable_native_push" value="false" />
+    <string name="hosts_account">https://account-af.feednews.com/</string>
+    <boolean name="enable_insta_clips" value="true" />
+</map>

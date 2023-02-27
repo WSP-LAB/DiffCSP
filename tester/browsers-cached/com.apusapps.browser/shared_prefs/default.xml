@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="sp_key_first_enter_main_activity" value="false" />
+    <boolean name="sp_key_if_new_user_set_default_pop_showed" value="true" />
+    <long name="main_activity_last_hide_time" value="1652812590151" />
+    <boolean name="default_browser_goto_clear_default" value="false" />
+    <boolean name="is_older_user_update" value="false" />
+    <long name="install_time_for_home_ad" value="1652812497591" />
+    <boolean name="has_hide_homepage_ever" value="true" />
+    <int name="sp_adb_rule_file_version_code" value="1" />
+    <long name="sp_key_last_update_time" value="1652812497591" />
+    <int name="sp_homepage_showed_num" value="2" />
+    <long name="sp_key_show_new_user_set_default_pop_time" value="1652812520709" />
+    <boolean name="is_main_activity_launched" value="true" />
+    <boolean name="sp_key_show_most_visit_card" value="false" />
+    <boolean name="local_default_image_init_success" value="true" />
+    <boolean name="sp_key_has_clear_old_topsite_icon_url" value="true" />
+    <long name="home_page_last_hide_time" value="1652812590083" />
+    <long name="first_open_homepage_time" value="1652812497203" />
+    <boolean name="sp_showed_download_reminder" value="true" />
+</map>

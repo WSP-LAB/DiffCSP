@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="com.applovin.sdk.QTDd.session_tracking_resumed_cooldown_minutes" value="0" />
+    <boolean name="com.applovin.sdk.QTDd.show_close_on_exit" value="false" />
+    <long name="com.applovin.sdk.QTDd.server_timestamp_ms" value="1653683337322" />
+    <int name="com.applovin.sdk.QTDd.close_button_touch_area" value="0" />
+    <string name="com.applovin.sdk.QTDd.mra_af">INTER,REWARDED,REWARDED_INTER,BANNER,LEADER,MREC</string>
+    <int name="com.applovin.sdk.QTDd.ttc_edge_buffer_dp" value="10" />
+    <string name="com.applovin.sdk.QTDd.country_code">DE</string>
+    <int name="com.applovin.sdk.QTDd.auxiliary_operations_threads" value="3" />
+    <int name="com.applovin.sdk.QTDd.cache_max_size_mb" value="-1" />
+    <long name="com.applovin.sdk.QTDd.device_timestamp_ms" value="1653683336529" />
+    <int name="com.applovin.sdk.QTDd.close_button_size_video" value="27" />
+    <boolean name="com.applovin.sdk.QTDd.spbcioa" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.cmi" value="true" />
+    <string name="com.applovin.sdk.QTDd.device_id">10710f973c4def5b31</string>
+    <boolean name="com.applovin.sdk.QTDd.caf" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.incent_warning_enabled" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.is_verbose_logging" value="false" />
+    <string name="com.applovin.sdk.QTDd.mediation_endpoint">https://ms4.applovin.com/</string>
+    <boolean name="com.applovin.sdk.QTDd.qq1" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.ree" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.qq3" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.pmp" value="true" />
+    <long name="com.applovin.sdk.QTDd.max_signal_provider_latency_ms" value="30000" />
+    <string name="com.applovin.sdk.QTDd.text_incent_warning_title">Attention!</string>
+    <boolean name="com.applovin.sdk.QTDd.submit_ad_stats_enabled" value="true" />
+    <string name="com.applovin.sdk.QTDd.config_consent_dialog_state">applies</string>
+    <boolean name="com.applovin.sdk.QTDd.btee" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.rwvdv" value="false" />
+    <long name="com.applovin.sdk.QTDd.cache_file_ttl_seconds" value="259200" />
+    <string name="com.applovin.sdk.QTDd.server_installed_at">1653683251988</string>
+    <boolean name="com.applovin.sdk.QTDd.mute_controls_enabled" value="false" />
+    <long name="com.applovin.sdk.QTDd.anr_debug_thread_refresh_time_ms" value="-1" />
+    <boolean name="com.applovin.sdk.QTDd.lock_specific_orientation" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.qq" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.daostr" value="true" />
+    <string name="com.applovin.sdk.QTDd.adserver_endpoint">https://a4.applovin.com/</string>
+    <boolean name="com.applovin.sdk.QTDd.cfs" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.session_tracking_cooldown_on_event_fire" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.fail_ad_load_on_failed_video_cache" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.creative_debugger_enabled" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.lhs_skip_button" value="true" />
+    <string name="com.applovin.sdk.QTDd.plugin_version">10.3.1.0</string>
+    <boolean name="com.applovin.sdk.QTDd.submit_network_response_codes" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.fvrunc" value="true" />
+    <long name="com.applovin.sdk.QTDd.session_tracking_paused_cooldown_minutes" value="0" />
+    <boolean name="com.applovin.sdk.QTDd.cache_cleanup_enabled" value="true" />
+    <string name="com.applovin.sdk.QTDd.text_incent_warning_close_option">Close</string>
+    <boolean name="com.applovin.sdk.QTDd.persistent_mediated_postbacks" value="false" />
+    <boolean name="com.applovin.sdk.QTDd.max_postback_gzip" value="true" />
+    <string name="com.applovin.sdk.QTDd.resource_cache_prefix">https://vid.applovin.com/,https://stage-vid.applovin.com/,https://pdn.applovin.com/,https://stage-pdn.applovin.com/,https://img.applovin.com/,https://stage-img.applovin.com/,https://d.applovin.com/,https://assets.applovin.com/,https://stage-assets.applovin.com/,https://cdnjs.cloudflare.com/,http://vid.applovin.com/,http://stage-vid.applovin.com/,http://pdn.applovin.com/,http://stage-pdn.applovin.com/,http://img.applovin.com/,http://stage-img.applovin.com/,http://d.applovin.com/,http://assets.applovin.com/,http://stage-assets.applovin.com/,http://cdnjs.cloudflare.com/,http://u.appl.vn/,https://u.appl.vn/,https://res.applovin.com/,https://res1.applovin.com/,https://res2.applovin.com/,https://res3.applovin.com/,http://res.applovin.com/,http://res1.applovin.com/,http://res2.applovin.com/,http://res3.applovin.com/</string>
+    <boolean name="com.applovin.sdk.QTDd.mute_with_user_settings" value="true" />
+    <string name="com.applovin.sdk.QTDd.text_incent_warning_continue_option">Keep Watching</string>
+    <boolean name="com.applovin.sdk.QTDd.user_agent_collection_enabled" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.video_immersive_mode_enabled" value="true" />
+    <int name="com.applovin.sdk.QTDd.close_button_right_margin_video" value="5" />
+    <long name="com.applovin.sdk.QTDd.ad_refresh_ms" value="30000" />
+    <boolean name="com.applovin.sdk.QTDd.track_network_response_codes" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.comcr" value="false" />
+    <boolean name="com.applovin.sdk.QTDd.is_video_skippable" value="true" />
+    <int name="com.applovin.sdk.QTDd.close_button_top_margin_video" value="5" />
+    <string name="com.applovin.sdk.QTDd.text_incent_warning_body">You won't get your reward if the video hasn't finished.</string>
+    <boolean name="com.applovin.sdk.QTDd.fetch_mediated_ad_gzip" value="true" />
+    <string name="com.applovin.sdk.QTDd.sc">JpS3pBoW%2FrmkGlSWExUgFpjiqfOgYAA%3D</string>
+    <long name="com.applovin.sdk.QTDd.publisher_id" value="506523" />
+    <boolean name="com.applovin.sdk.QTDd.http_headers_collection_enabled" value="true" />
+    <string name="com.applovin.sdk.QTDd.device_token">MaznYs97JTiqaqEwnZGZ5rmpuU_Ww8s-Vc7FRe1hIF4fTshZsLa35byhphF_TjzlA--SnodegX5FRuv3ceZcg0m3aW6jmlCV6pmh96zFi7_k5JpKLVLCO83clLe6_tRVahgqPm8YTm1nBEuvLECRxSmx5HZlreOC4Z1Q576S4fA=</string>
+    <boolean name="com.applovin.sdk.QTDd.dsaovcf" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.mute_videos" value="false" />
+    <boolean name="com.applovin.sdk.QTDd.clear_network_response_codes_on_request" value="true" />
+    <boolean name="com.applovin.sdk.QTDd.ustp" value="true" />
+</map>

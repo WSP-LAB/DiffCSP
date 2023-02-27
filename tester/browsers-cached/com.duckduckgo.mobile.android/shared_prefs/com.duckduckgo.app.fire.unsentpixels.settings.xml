@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="KEY_UNSENT_CLEAR_APP_RESTARTED_PIXELS" value="0" />
+    <int name="KEY_UNSENT_CLEAR_APP_RESTARTED_WITH_INTENT_PIXELS" value="0" />
+</map>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="last_fcm_token">dPT1--w1SX2yDpF7iELTwm:APA91bFi3lyl0Xqf0OAxsrcqSXrRIHUuy5tqEFLZGlrnoK1i3GwY3PNBLj2_OG_4ZR0xunHoaJFcIN2lWPo-Wf89ZgKEiHn1aVs1pN7joplxOCCjA0CrAcjKeR5SjxpnZDe4Z0MKB7ph</string>
+    <set name="subscribed_topics">
+        <string>version_68.3.3557.64528</string>
+        <string>preinstallSource_none</string>
+        <string>majorVersion_68</string>
+        <string>uiLang_en-us</string>
+    </set>
+    <int name="unfinished_task" value="0" />
+</map>

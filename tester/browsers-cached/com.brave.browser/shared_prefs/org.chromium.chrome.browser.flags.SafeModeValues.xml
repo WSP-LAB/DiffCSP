@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:exclude_mv_tiles" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.CloseTabSuggestions" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:show_tabs_in_mru_order" value="false" />
+    <boolean name="tab_group_android_enabled" value="true" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:enable_tab_group_auto_creation" value="true" />
+    <string name="Chrome.Flags.SafeValuesVersion">102.1.39.113</string>
+    <long name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:thumbnail_aspect_ratio" value="4605831338911806259" />
+    <boolean name="Chrome.Flags.CachedFlag.InstantStart" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.ConditionalTabStripAndroid" value="false" />
+    <boolean name="Chrome.Flags.CachedFlag.TabGroupsContinuationAndroid" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGroupsContinuationAndroid:enable_launch_polish" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:enable_search_term_chip" value="false" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.TabGroupsContinuationAndroid:enable_launch_bug_fix" value="false" />
+    <boolean name="start_surface_enabled" value="false" />
+    <boolean name="download_auto_resumption_in_native" value="true" />
+    <int name="Chrome.Flags.FieldTrialParamCached.TabSwitcherOnReturn:tab_switcher_on_return_time_ms" value="-1" />
+    <boolean name="Chrome.Flags.FieldTrialParamCached.StartSurfaceAndroid:exclude_query_tiles" value="true" />
+    <boolean name="Chrome.Flags.CachedFlag.ThemeRefactorAndroid" value="true" />
+    <string name="Chrome.Flags.FieldTrialParamCached.TabGridLayoutAndroid:tab_grid_layout_android_new_tab_tile"></string>
+</map>

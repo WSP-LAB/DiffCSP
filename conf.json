@@ -1,0 +1,82 @@
+{
+    "[HTML_RESOURCE]": [
+        "http://127.0.0.1:8000/self.html$$$",
+        "http://127.0.0.1:8080/allowed_http.html$$$",
+        "http://127.0.0.1:8082/blocked_http.html$$$"
+    ],
+    "[JS_RESOURCE]": [
+        "http://127.0.0.1:8000/self.js$$$",
+        "http://127.0.0.1:8080/allowed_http.js$$$",
+        "http://127.0.0.1:8082/blocked_http.js$$$"
+    ],
+    "[REPORT_API]": [
+        "http://127.0.0.1:8000/script_receive$$$"
+    ],
+    "[JS]": [
+        "fetch('[REPORT_API]')",
+        "location='[SCHEME]'",
+        "window.open('[SCHEME]')",
+        "location.replace('[SCHEME]')",
+        "eval('[JS]')",
+        "var o=document.createElement('script');o.src='[JS_RESOURCE]';document.body.appendChild(o);void(0);",
+        "var o=document.createElement('script');o.src='[JS_RESOURCE]';o.nonce=123;document.body.appendChild(o);void(0);",
+        "var o=document.createElement('iframe');o.src='[SCHEME]';document.body.appendChild(o);void(0);",
+        "var o=document.createElement('object');o.data='[SCHEME]';document.body.appendChild(o);void(0);",
+        "var o=document.createElement('iframe');o.src=[BLOB_HTML];document.body.appendChild(o);void(0);",
+        "var o=document.createElement('object');o.data=[BLOB_HTML];document.body.appendChild(o);void(0);",
+        "var o=document.createElement('script');o.src=[BLOB_JS];o.nonce=123;document.body.appendChild(o);void(0);",
+        "document.write('[HTML]')",
+        "location=[BLOB_HTML]",
+        "location.replace([BLOB_HTML])",
+        "window.open=[BLOB_HTML]",
+        "w=window.open('self.js'); w.document.write('[HTML]');",
+        "w=window.open('about:blank'); w.document.write('[HTML]');"
+    ],
+    "[SCHEME]": [
+        "javascript:'[HTML]'",
+        "javascript:[JS]",
+        "data:text/html,[HTML]"
+    ],
+    "[BLOB_HTML]": [
+        "URL.createObjectURL(new Blob(['[HTML]'],{type:'text/html'}))"
+    ],
+    "[BLOB_JS]":[
+        "URL.createObjectURL(new Blob(['[JS]'],{type:'application/js'}))"
+    ],
+    "[HTML]": [
+        "<script nonce=123>[JS]</script>",
+        "<script src=[JS_RESOURCE] nonce=123></script>",
+        "<iframe src='[SCHEME]'></iframe>",
+        "<a id=ID_VAR href='[SCHEME]'></a><script nonce=123>ID_VAR.click();</script>",
+        "<object data='[SCHEME]'></object>",
+        "<li id=ID_VAR></li><script nonce=123>ID_VAR.innerHTML+='[HTML]'</script>",
+        "<iframe srcdoc='[HTML]'></iframe>",
+        "<style>@keyframes ID_VAR{}</style><xss style=animation-name:ID_VAR onanimationstart='[JS]'></xss>",
+        "<audio oncanplay='[JS]'><source src=self.mp3 type=audio/mpeg></audio>",
+        "<audio controls ondurationchange='[JS]'><source src=self.mp3 type=audio/mpeg></audio>",
+        "<audio src/onerror='[JS]'></audio>",
+        "<audio autoplay onloadedmetadata='[JS]'><source src=self.mp3 type=audio/mpeg></audio>",
+        "<iframe onload='[JS]'></iframe>",
+        "<iframe id=ID_VAR src=about:blank></iframe><script nonce=123>ID_VAR.onload=_=>ID_VAR.contentDocument.body.innerHTML+='[HTML]';ID_VAR.contentWindow.location.reload();</script>",
+        "<iframe id=ID_VAR src=about:blank></iframe><script nonce=123>ID_VAR.onload=_=>ID_VAR.contentDocument.write('[HTML]');ID_VAR.contentWindow.location.reload();</script>",
+        "<iframe id=ID_VAR src=about:blank></iframe><script nonce=123>ID_VAR.addEventListener('load',()=>{ID_VAR.contentWindow.location.href='[SCHEME]';},{once:true});</script>",
+        "<iframe id=ID_VAR src=about:blank></iframe><script nonce=123>ID_VAR.addEventListener('load',()=>{ID_VAR.src='[SCHEME]';},{once:true});</script>",
+        "<iframe id=ID_VAR src=about:blank></iframe><script nonce=123>ID_VAR.addEventListener('load',()=>{ID_VAR.srcdoc='[HTML]';},{once:true});</script>",
+        "<iframe id=ID_VAR src=self.html></iframe><script nonce=123>ID_VAR.onload=_=>ID_VAR.contentDocument.body.innerHTML+='[HTML]';ID_VAR.contentWindow.location.reload();</script>",
+        "<iframe id=ID_VAR src=self.html></iframe><script nonce=123>ID_VAR.onload=_=>ID_VAR.contentDocument.write('[HTML]');ID_VAR.contentWindow.location.reload();</script>",
+        "<iframe id=ID_VAR src=self.html></iframe><script nonce=123>ID_VAR.addEventListener('load',()=>{ID_VAR.contentWindow.location.href='[SCHEME]';},{once:true});</script>",
+        "<iframe id=ID_VAR src=self.html></iframe><script nonce=123>ID_VAR.addEventListener('load',()=>{ID_VAR.src='[SCHEME]';},{once:true});</script>",
+        "<iframe id=ID_VAR src=self.html></iframe><script nonce=123>ID_VAR.addEventListener('load',()=>{ID_VAR.srcdoc='[HTML]';},{once:true});</script>",
+        "<form action='[SCHEME]' name=ID_VAR method=post></form><script nonce=123>document.ID_VAR.submit();</script>",
+        "<svg xmlns:svg=http://www.w3.org/2000/svg xmlns=http://www.w3.org/2000/svg xmlns:xlink=http://www.w3.org/1999/xlink>[HTML]</svg>",
+        "<iframe id=ID_VAR src=self.html></iframe><script nonce=123>ID_VAR.onload=_=>ID_VAR.contentWindow.eval('[JS]');ID_VAR.contentWindow.location.reload();</script>",
+        "<iframe id=ID_VAR src=about:blank></iframe><script nonce=123>ID_VAR.onload=_=>ID_VAR.contentWindow.eval('[JS]');ID_VAR.contentWindow.location.reload();</script>",
+        "<iframe id=ID_VAR src=about:blank></iframe><script nonce=123>ID_VAR.onload=_=>ID_VAR.contentWindow.eval('[JS]');ID_VAR.src='self.html';ID_VAR.contentWindow.location.reload();</script>",
+        "<template id=ID_VAR>[HTML]</template><script nonce=123>document.body.appendChild(ID_VAR.content.cloneNode(true));</script>",
+        "<details ontoggle='[JS]' open>test</details>",
+        "<input id=ID_VAR onchange='[JS]' value=xss></input><script nonce=123>var event = new Event('change');ID_VAR.dispatchEvent(event);</script>",
+        "<xss id=ID_VAR onclick='[JS]' style=display:block>test</xss><script nonce=123>var event = new Event('click');ID_VAR.dispatchEvent(event);</script>",
+        "<xss id=ID_VAR oncopy='[JS]' value=test autofocus tabindex=1 style=display:block>test</xss><script nonce=123>var event = new Event('copy');ID_VAR.dispatchEvent(event);</script>",
+        "<input id=ID_VAR oninput='[JS]' value=test></input><script nonce=123>var event = new Event('input');ID_VAR.dispatchEvent(event);</script>"
+    ]
+}

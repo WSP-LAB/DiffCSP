@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="push_content_succeeded" value="4" />
+    <string name="data_savings_history_turbo">[&quot;0\/0\/0\/0\/0&quot;,&quot;2022\/4\/27\/0\/0&quot;]</string>
+    <int name="obml_ad_blocking" value="0" />
+    <int name="default_ad_blocking" value="1" />
+    <string name="installation_id">4b 47 78</string>
+    <long name="push_content_update_time" value="1653704423311" />
+    <int name="general_consent_shown" value="1" />
+    <long name="last_mini_upgrade_time" value="1653682848623" />
+    <int name="allow_opera_news_poking" value="1" />
+    <int name="personalized_news_feed" value="1" />
+    <string name="settings_first_app_version">62.5.2254.61243</string>
+    <int name="eula_privacy_accepted" value="1" />
+    <int name="personalized_ads" value="1" />
+    <int name="welcome_fragment_shown" value="1" />
+    <int name="install_fragment_shown" value="1" />
+    <int name="collect_general_interests" value="1" />
+    <int name="collect_general_news_topics" value="1" />
+    <int name="collect_precise_location" value="1" />
+    <int name="version_code" value="622061243" />
+    <int name="settings_version_key" value="7" />
+    <int name="free_data_enabled" value="1" />
+    <int name="default_acceptable_ads" value="1" />
+    <string name="version_name">62.5.2254.61243</string>
+    <string name="dist_install_referrer">utm_medium=ose&amp;utm_source=opera</string>
+    <int name="compression_enabled" value="0" />
+</map>

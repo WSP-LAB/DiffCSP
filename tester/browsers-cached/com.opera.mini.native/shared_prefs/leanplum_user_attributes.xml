@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="lpAttr.Facebook deeplink supported">no</string>
+    <string name="lpAttr.News">no</string>
+    <string name="lpAttr.Branding">opera</string>
+    <string name="lpAttr.Home country">us</string>
+    <string name="lpAttr.Legacy user">no</string>
+    <string name="lpAttr.Hype available">no</string>
+    <string name="lpAttr.Notifications enabled">yes</string>
+    <string name="lpAttr.Ofa">yes</string>
+</map>

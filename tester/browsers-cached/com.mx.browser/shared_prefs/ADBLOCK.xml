@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="subscriptions" value="1" />
+    <string name="availableSubscription14.prefixes">es</string>
+    <string name="availableSubscription8.url">https://easylist-downloads.adblockplus.org/easylistgermany+easylist.txt</string>
+    <string name="availableSubscription1.title">ABPVN List+EasyList</string>
+    <string name="availableSubscription4.title">EasyList</string>
+    <string name="availableSubscription20.url">https://easylist-downloads.adblockplus.org/rolist+easylist.txt</string>
+    <string name="availableSubscription11.prefixes">lt</string>
+    <string name="availableSubscription19.title">Liste FR+EasyList</string>
+    <string name="availableSubscription11.url">https://easylist-downloads.adblockplus.org/easylistlithuania+easylist.txt</string>
+    <string name="availableSubscription2.prefixes">bg</string>
+    <string name="availableSubscription7.url">https://easylist-downloads.adblockplus.org/easylistdutch+easylist.txt</string>
+    <string name="availableSubscription7.title">EasyList Dutch+EasyList</string>
+    <string name="availableSubscription12.title">EasyList Polish+EasyList</string>
+    <string name="availableSubscription22.title">ABP filters</string>
+    <string name="availableSubscription21.url">https://easylist-downloads.adblockplus.org/ruadlist+easylist.txt</string>
+    <string name="availableSubscription7.prefixes">nl</string>
+    <string name="subscription0.title">EasyList</string>
+    <string name="availableSubscription12.url">https://easylist-downloads.adblockplus.org/easylistpolish+easylist.txt</string>
+    <string name="availableSubscription21.prefixes">ru,uk</string>
+    <string name="availableSubscription18.url">https://easylist-downloads.adblockplus.org/liste_ar+liste_fr+easylist.txt</string>
+    <string name="availableSubscription6.url">https://easylist-downloads.adblockplus.org/easylistczechslovak+easylist.txt</string>
+    <string name="availableSubscription1.prefixes">vi</string>
+    <string name="availableSubscription21.title">RuAdList+EasyList</string>
+    <string name="availableSubscription22.url">https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt</string>
+    <string name="availableSubscription15.prefixes">bn,gu,hi,pa,as,mr,ml,te,kn,or,ne,si</string>
+    <string name="availableSubscription5.title">EasyList China+EasyList</string>
+    <string name="availableSubscription5.prefixes">zh</string>
+    <string name="availableSubscription23.url">https://easylist-downloads.adblockplus.org/easyprivacy.txt</string>
+    <string name="availableSubscription10.title">EasyList Italy+EasyList</string>
+    <string name="availableSubscription8.title">EasyList Germany+EasyList</string>
+    <string name="availableSubscription16.title">KoreanList+EasyList</string>
+    <string name="availableSubscription20.prefixes">ro</string>
+    <string name="availableSubscription19.url">https://easylist-downloads.adblockplus.org/liste_fr+easylist.txt</string>
+    <string name="availableSubscription5.url">https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt</string>
+    <string name="availableSubscription0.prefixes">id,ms</string>
+    <string name="availableSubscription10.url">https://easylist-downloads.adblockplus.org/easylistitaly+easylist.txt</string>
+    <string name="availableSubscription13.title">EasyList Portuguese+EasyList</string>
+    <string name="subscription0.prefixes">en</string>
+    <string name="availableSubscription16.url">https://easylist-downloads.adblockplus.org/koreanlist+easylist.txt</string>
+    <boolean name="aa_enabled" value="true" />
+    <string name="availableSubscription3.url">https://easylist-downloads.adblockplus.org/dandelion_sprouts_nordic_filters+easylist.txt</string>
+    <string name="subscription0.url">https://easylist-downloads.adblockplus.org/easylist.txt</string>
+    <string name="availableSubscription24.title">Fanboy's Social Blocking List</string>
+    <string name="availableSubscription6.title">EasyList Czech and Slovak+EasyList</string>
+    <string name="availableSubscription14.title">EasyList Spanish+EasyList</string>
+    <string name="availableSubscription9.prefixes">he</string>
+    <string name="availableSubscription6.prefixes">cs,sk</string>
+    <string name="availableSubscription15.url">https://easylist-downloads.adblockplus.org/indianlist+easylist.txt</string>
+    <boolean name="enabled" value="false" />
+    <string name="availableSubscription24.url">https://easylist-downloads.adblockplus.org/fanboy-social.txt</string>
+    <string name="availableSubscription19.prefixes">fr</string>
+    <string name="availableSubscription16.prefixes">ko</string>
+    <string name="availableSubscription17.url">https://easylist-downloads.adblockplus.org/latvianlist+easylist.txt</string>
+    <string name="availableSubscription13.prefixes">pt</string>
+    <string name="availableSubscription17.title">Latvian List+EasyList</string>
+    <string name="availableSubscription9.title">EasyList Hebrew+EasyList</string>
+    <string name="availableSubscription10.prefixes">it</string>
+    <string name="availableSubscription4.url">https://easylist-downloads.adblockplus.org/easylist.txt</string>
+    <string name="availableSubscription2.title">Bulgarian list+EasyList</string>
+    <string name="availableSubscription22.prefixes"></string>
+    <string name="availableSubscription23.title">EasyPrivacy</string>
+    <string name="availableSubscription0.title">ABPindo+EasyList</string>
+    <string name="availableSubscription24.prefixes"></string>
+    <string name="availableSubscription4.prefixes">en</string>
+    <string name="availableSubscription18.prefixes">ar</string>
+    <int name="availableSubscriptions" value="25" />
+    <string name="availableSubscription0.url">https://easylist-downloads.adblockplus.org/abpindo+easylist.txt</string>
+    <string name="availableSubscription12.prefixes">pl</string>
+    <string name="availableSubscription13.url">https://easylist-downloads.adblockplus.org/easylistportuguese+easylist.txt</string>
+    <string name="availableSubscription15.title">IndianList+EasyList</string>
+    <string name="availableSubscription2.url">https://easylist-downloads.adblockplus.org/bulgarian_list+easylist.txt</string>
+    <string name="availableSubscription11.title">EasyList Lithuania+EasyList</string>
+    <string name="availableSubscription20.title">ROList+EasyList</string>
+    <string name="availableSubscription8.prefixes">de</string>
+    <string name="availableSubscription9.url">https://easylist-downloads.adblockplus.org/israellist+easylist.txt</string>
+    <string name="availableSubscription14.url">https://easylist-downloads.adblockplus.org/easylistspanish+easylist.txt</string>
+    <string name="availableSubscription18.title">Liste AR+Liste FR+EasyList</string>
+    <string name="availableSubscription3.prefixes">no,nb,nn,da,is,fo,kl</string>
+    <string name="availableSubscription23.prefixes"></string>
+    <string name="availableSubscription1.url">https://easylist-downloads.adblockplus.org/abpvn+easylist.txt</string>
+    <string name="availableSubscription3.title">Dandelion Sprout's Nordic Filters+EasyList</string>
+    <string name="availableSubscription17.prefixes">lv</string>
+</map>

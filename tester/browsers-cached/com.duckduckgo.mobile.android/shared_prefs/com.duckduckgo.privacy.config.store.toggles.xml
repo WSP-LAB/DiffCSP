@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="ampLinks" value="true" />
+    <boolean name="eme" value="true" />
+    <boolean name="contentBlocking" value="true" />
+    <boolean name="https" value="true" />
+    <boolean name="trackingParameters" value="true" />
+    <int name="trackingParametersMinSupportedVersion" value="51250000" />
+    <boolean name="autofill" value="true" />
+    <boolean name="gpc" value="true" />
+    <boolean name="trackerAllowlist" value="true" />
+</map>
